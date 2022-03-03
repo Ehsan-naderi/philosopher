@@ -6,9 +6,10 @@
 /*   By: mnaderi <mnaderi@student.42wolfsburg.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/03 23:39:58 by mnaderi           #+#    #+#             */
-/*   Updated: 2022/02/03 23:40:01 by mnaderi          ###   ########.fr       */
+/*   Updated: 2022/03/03 10:49:20 by mnaderi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
 
+inja ham ?
