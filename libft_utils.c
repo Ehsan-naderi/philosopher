@@ -14,3 +14,5 @@
 
 inja ham ?
 tomitoni, faghat bayad tamarkoz koni
+alan ke shod tonesti
+afarin
